@@ -1,397 +1,865 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4Music.uk" tvg-name="4Music" tvg-country="UK" tvg-language="English" tvg-logo="https://d126oek9ze5bb6.cloudfront.net/uploads/2018/07/4Music_primary.png" group-title="Music",4Music (576p) [not 24/7]
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
-#EXTINF:-1 tvg-id="92NewsUK.pk" tvg-name="92 News UK" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="AfrobeatsAFR.uk" tvg-name="Afrobeats (AFR)" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="Music",Afrobeats (AFR)
-https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Afrobeats247.uk" tvg-name="Afrobeats 247" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="",Afrobeats 247
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AhlulbaytTV.uk" tvg-name="Ahlulbayt TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Religious",Ahlulbayt TV
-http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" tvg-country="UK" tvg-language="Punjabi;English" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="Religious",Akaal Channel (396p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-id="AkaalTV.uk" tvg-name="Akaal TV" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Akaal TV (480p)
-http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlarabyTV.uk" tvg-name="Alaraby TV" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Alaraby TV
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1" tvg-country="UK" tvg-language="" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="",BBC 1
-http://51.52.156.22:8888/http/011
-#EXTINF:-1 tvg-id="BBCALBA.uk" tvg-name="BBC ALBA" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC ALBA (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-country="UK" tvg-language="" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Four (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCFourHD.uk" tvg-name="BBC Four HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Four HD (720p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyle.uk" tvg-name="BBC Lifestyle" tvg-country="UK" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC News (540p) [Geo-Blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="BBCNewsHD.uk" tvg-name="BBC News HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC News HD (720p) [Geo-Blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCOneCambridge.uk" tvg-name="BBC One Cambridge" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Cambridge (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneChannelIslands.uk" tvg-name="BBC One Channel Islands" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Channel Islands (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneEast.uk" tvg-name="BBC One East" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One East (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneEastMidlands.uk" tvg-name="BBC One East Midlands" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One East Midlands (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneEastYorkshire.uk" tvg-name="BBC One East Yorkshire" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One East Yorkshire (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC One HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One HD (720p) [Geo-Blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="BBC One London" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One London (540p) [Geo-Blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="BBCOneNorthEast.uk" tvg-name="BBC One North East" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One North East (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneNorthWest.uk" tvg-name="BBC One North West" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One North West (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneNorthernIreland.uk" tvg-name="BBC One Northern Ireland" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Northern Ireland (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneNorthernIrelandHD.uk" tvg-name="BBC One Northern Ireland HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Northern Ireland HD (720p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCOneOxford.uk" tvg-name="BBC One Oxford" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Oxford (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="BBC One Scotland" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Scotland
-http://51.52.156.22:8888/http/001
-#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name="BBC One Scotland" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Scotland (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneScotlandHD.uk" tvg-name="BBC One Scotland HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Scotland HD (720p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCOneSouth.uk" tvg-name="BBC One South" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One South (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneSouthEast.uk" tvg-name="BBC One South East" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One South East (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneSouthWest.uk" tvg-name="BBC One South West" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One South West (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-name="BBC One Wales" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Wales (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneWalesHD.uk" tvg-name="BBC One Wales HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Wales HD (720p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCOneWest.uk" tvg-name="BBC One West" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One West (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneWestMidlands.uk" tvg-name="BBC One West Midlands" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One West Midlands (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCOneYorks.uk" tvg-name="BBC One Yorks" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One Yorks (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Parliament (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Scotland (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCScotlandHD.uk" tvg-name="BBC Scotland HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Scotland HD (720p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/content/x=3/v=pv14/b=5070016/t=3840/i=urn:bbc:pips:service:bbc_scotland_hd/main.m3u8
-#EXTINF:-1 tvg-id="BBCTwoEngland.uk" tvg-name="BBC Two England" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Two England (540p) [Geo-Blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-name="BBC Two HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Two HD (720p) [Geo-Blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCTwoNorthenIreland.uk" tvg-name="BBC Two Northen Ireland" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Two Northen Ireland (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCTwoNorthernIrelandHD.uk" tvg-name="BBC Two Northern Ireland HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Two Northern Ireland HD (720p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBCTwoWales.uk" tvg-name="BBC Two Wales" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Two Wales (540p) [Geo-Blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_wales_digital/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="",BBC World News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="",BBC World News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNewsYingGuo.uk" tvg-name="BBC World News(英国)" tvg-country="UK" tvg-language="" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News(英国)
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-#EXTINF:-1 tvg-id="BeanoTV.uk" tvg-name="Beano TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/XvBi1Ou.png" group-title="",Beano TV (720p)
-https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" group-title="Business",Bloomberg TV Europe (2160p)
-https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" group-title="Business",Bloomberg TV Europe (720p)
-https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://1.bp.blogspot.com/-PbJbgwulmgg/XlcvWvE1krI/AAAAAAAArqk/GybN3PTg-tAskuSoJQe3hfT2CvPXdA1WwCLcBGAsYHQ/s320/Bloomberg%2BTelevision.jpg" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Music",Box Hits (576p)
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-id="BritAsiaLiveUSEastern.uk" tvg-name="Brit Asia Live (US Eastern)" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="",Brit Asia Live (US Eastern)
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
-#EXTINF:-1 tvg-id="BritAsiaLiveUSPacific.uk" tvg-name="Brit Asia Live (US Pacific)" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="",Brit Asia Live (US Pacific)
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
-#EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-name="Brit Asia TV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Brit Asia TV
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
-#EXTINF:-1 tvg-id="BritishMuslimTV.uk" tvg-name="British Muslim TV" tvg-country="UK" tvg-language="English" tvg-logo="http://www.britishmuslim.tv/images/BMTV_Identity.svg" group-title="Religious",British Muslim TV
-https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",CBBC (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="CBBCHD.uk" tvg-name="CBBC HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",CBBC HD (720p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",CBeebies (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="CBeebiesHD.uk" tvg-name="CBeebies HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",CBeebies HD (720p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-name="CBeebies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids",Cbeebies UK
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="Channel S" tvg-country="UK;IE;BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="",Channel S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 tvg-id="ChannelSUSEastern.uk" tvg-name="Channel S (US Eastern)" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="",Channel S (US Eastern)
-https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
-#EXTINF:-1 tvg-id="ChannelSUSPacific.uk" tvg-name="Channel S (US Pacific)" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="",Channel S (US Pacific)
-https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.uk" tvg-name="Clubbing TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",Clubbing TV (720p)
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="",Comedy Channel (1080p)
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cruise1stTV.uk" tvg-name="Cruise1st TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/q50kqOG.jpg" group-title="Shop",Cruise1st TV (396p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover.Film" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/yjIYUim.jpg" group-title="",Discover.Film (720p)
-https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Dust.uk" tvg-name="Dust" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="",Dust (720p)
-https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Dust.uk" tvg-name="Dust" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6LBIDFo.png" group-title="",Dust (720p)
-https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EdgeSport.uk" tvg-name="Edge Sport" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="Sports",EDGESport (1080p)
-https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
-#EXTINF:-1 tvg-id="ElevenSports.uk" tvg-name="Eleven Sports" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sports",Eleven Sports (720p)
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel (576p)
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" tvg-country="UK" tvg-language="English" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="",English Club TV (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1 tvg-id="Failarmy.uk" tvg-name="Failarmy" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/RIXSg4L.png" group-title="",Failarmy (720p)
-https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4" tvg-country="UK" tvg-language="" tvg-logo="https://pbs.twimg.com/media/DoF9YY7XsAAGIrv.jpg" group-title="",Film 4
-http://photocall.tv/lF4r/ftv.m3u8?ch=film4
-#EXTINF:-1 tvg-id="Film4UK.uk" tvg-name="Film 4 UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Film 4 UK
-http://51.52.156.22:8888/http/008
-#EXTINF:-1 tvg-id="FILMONTVPHOENIX.uk" tvg-name="FILMON.TV PHOENIX" tvg-country="UK" tvg-language="" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="",FILMON.TV PHOENIX
-http://photocall.tv/hD6n/ftv.m3u8?ch=phoenix
-#EXTINF:-1 tvg-id="FILMONTVREPORTAGEINFO.uk" tvg-name="FILMON.TV REPORTAGE INFO" tvg-country="UK" tvg-language="" tvg-logo="https://cps-static.rovicorp.com/2/Open/400x300_1845/Source/46822/FilmOnTV.png?partner=nocableorgx7xyycydguhtzwdd34bf8hzc" group-title="",FILMON.TV REPORTAGE INFO
-http://photocall.tv/hD6n/ftv.m3u8?ch=zdf_info
-#EXTINF:-1 tvg-id="Filmstream.uk" tvg-name="Filmstream" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aoaV9ek.jpg" group-title="",Filmstream (720p)
-https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmzie.uk" tvg-name="Filmzie" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/jUWffic.png" group-title="",Filmzie (720p)
-https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="FreeSports" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="Sports",FreeSports (1080p)
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-#EXTINF:-1 tvg-id="FTF.uk" tvg-name="FTF" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="",FTF (720p)
-https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FTFForthefans.uk" tvg-name="FTF For the fans" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="",FTF For the fans (720p)
-https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-country="UK" tvg-language="English" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="News",GB News
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="Gems TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gems TV (360p)
-http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1 tvg-id="GoUSA.uk" tvg-name="Go USA" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/KhdR4wa.jpg" group-title="",Go USA (720p)
-https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="GodTVUK.uk" tvg-name="God TV UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Religious",God TV UK (720p)
-https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
-#EXTINF:-1 tvg-id="GUSTOTVUK.uk" tvg-name="GUSTO TV (UK)" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vanl2NZ.jpg" group-title="",GUSTO TV (UK) (720p)
-https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="",Hala London (1080p)
-https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="HorseandCountry.uk" tvg-name="Horse and Country" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="",Horse and Country (720p)
-https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Humanity.uk" tvg-name="Humanity" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/XZSCpl2.jpg" group-title="",Humanity (720p)
-https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Insight.uk" tvg-name="Insight" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ewkmZM1.png" group-title="",Insight (720p)
-https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Inwild.uk" tvg-name="Inwild" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/8SgbMqY.png" group-title="",Inwild (720p)
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Inwonder.uk" tvg-name="Inwonder" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/5VUGeTE.png" group-title="",Inwonder (720p)
-https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="Iran International" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="",Iran International
-http://51.210.199.47/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="Iran International" tvg-country="UK" tvg-language="Persian" tvg-logo="" group-title="",Iran International (1080p)
-https://live.playstop.me/1816184091/index.m3u8
-#EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="Islam Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel (576p)
-https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV
-https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-#EXTINF:-1 tvg-id="ITVUK.uk" tvg-name="ITV UK" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",ITV UK
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV2
-http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV3
-http://51.52.156.22:8888/http/006
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV4
-http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-name="Jewellery Maker" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/azSptPw.png" group-title="",Jewellery Maker (720p)
-https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KanshiTV.uk" tvg-name="Kanshi TV" tvg-country="UK" tvg-language="Hindi" tvg-logo="https://i.imgur.com/jxf9gQd.jpg" group-title="",Kanshi TV
-https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
-#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nn2VfkP.png" group-title="",Kerrang (576p)
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF:-1 tvg-id="KidGamerTV.uk" tvg-name="Kid Gamer TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dSPmDU7.png" group-title="",Kid Gamer TV (1080p)
-https://studio71-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Kiss.uk" tvg-name="Kiss" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/AqVdlpz.png" group-title="",Kiss (576p)
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-#EXTINF:-1 tvg-id="KoolLondonRadio.uk" tvg-name="Kool London Radio" tvg-country="UK" tvg-language="English" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="Music",Kool London Radio (720p)
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" tvg-country="FR;UK;PT;ES;DK;NL;BE;CH" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO (404p)
-https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live" tvg-country="UK" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png" group-title="",London Live (720p)
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1 tvg-id="LuxeTV.uk" tvg-name="Luxe TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="",Luxe TV (720p)
-https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Magic.uk" tvg-name="Magic" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="",Magic (576p)
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1 tvg-id="Manoto.uk" tvg-name="Manoto" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Manoto
-https://d2rwmwucnr0d10.cloudfront.net/live_1500.m3u8
-#EXTINF:-1 tvg-id="Manoto.uk" tvg-name="Manoto" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/y2oiXz6.png" group-title="",Manoto
-https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF:-1 tvg-id="ManotoTV.uk" tvg-name="Manoto TV" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto TV (1080p)
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
-#EXTINF:-1 tvg-id="MavTV.uk" tvg-name="Mav TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/a2MgGmF.png" group-title="",Mav TV (720p)
-https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MMATV.uk" tvg-name="MMA TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="",MMA TV (720p)
-https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MoviesCentral.uk" tvg-name="Movies Central" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="",Movies Central (720p)
-https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MoviesKingdom.us" tvg-name="Movies Kingdom" tvg-country="US;UK" tvg-language="English" tvg-logo="" group-title="Movies",Movies Kingdom (720p)
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 tvg-id="MTA1.uk" tvg-name="MTA 1" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",MTA 1
-http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
-#EXTINF:-1 tvg-id="MTA1.uk" tvg-name="MTA 1" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 (720p)
-https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8
-#EXTINF:-1 tvg-id="MTA1.uk" tvg-name="MTA 1" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1
-https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="MTA1English.uk" tvg-name="MTA 1 English" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 English (1080p)
-https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
-#EXTINF:-1 tvg-id="MTA1Original.uk" tvg-name="MTA 1 Original" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Original (1080p)
-https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
-#EXTINF:-1 tvg-id="MTA1Urdu.uk" tvg-name="MTA 1 Urdu" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",MTA 1 Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-id="MTA1Urdu.uk" tvg-name="MTA 1 Urdu" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1 Urdu (1080p)
-https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
-#EXTINF:-1 tvg-id="MTA2.uk" tvg-name="MTA 2" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",MTA 2
-https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8
-#EXTINF:-1 tvg-id="MTA2.uk" tvg-name="MTA 2" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2 (720p)
-https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
-#EXTINF:-1 tvg-id="MTA2Urdu.uk" tvg-name="MTA 2 Urdu" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",MTA 2 Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8
-#EXTINF:-1 tvg-id="MTA2Urdu.uk" tvg-name="MTA 2 Urdu" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2 Urdu (720p)
-https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
-#EXTINF:-1 tvg-id="MTA3.uk" tvg-name="MTA 3" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",MTA 3
-http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8
-#EXTINF:-1 tvg-id="MTA3.uk" tvg-name="MTA 3" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3 (1080p)
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
-#EXTINF:-1 tvg-id="MTAAfrica.uk" tvg-name="MTA Africa" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/xT3X6L9.png" group-title="",MTA Africa (1080p)
-https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
-#EXTINF:-1 tvg-id="MTVHitsEurope.us" tvg-name="MTV Hits Europe" tvg-country="EUR" tvg-language="" tvg-logo="" group-title="Music",MTV Hits Europe (576p)
-http://188.40.68.167/russia/mtv_hits/playlist.m3u8
-#EXTINF:-1 tvg-id="nTVUSEastern.uk" tvg-name="n TV (US Eastern)" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/l75bDTx.png" group-title="",n TV (US Eastern)
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
-#EXTINF:-1 tvg-id="nickjrtoo.us" tvg-name="Nick Jr. Too" tvg-country="UK;IE" tvg-language="English" tvg-logo="http://neczbm.to/images/channels/NickJrToo.png" group-title="Kids",Nick Jr. Too (576p)
-http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="PeopleareAwesome.uk" tvg-name="People are Awesome" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="",People are Awesome (720p)
-https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetKnowledge.uk" tvg-name="Planet Knowledge" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/U8GADbT.jpg" group-title="",Planet Knowledge (720p)
-https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayersTV.uk" tvg-name="Players TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="",Players TV (1080p)
-https://playerstv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Pocketwatch.uk" tvg-name="Pocket watch" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/CiQdnud.png" group-title="",Pocket watch (720p)
-https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.uk" tvg-name="Qello Concerts by Stingray" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="Music",Qello Concerts by Stingray (1080p)
-https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8
-#EXTINF:-1 tvg-id="QUESTTVClassical.uk" tvg-name="QUEST TV Classical" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="",QUEST TV Classical (720p)
-https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="QUESTTVJazzandBeyond.uk" tvg-name="QUEST TV Jazz and Beyond" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="",QUEST TV Jazz and Beyond (720p)
-https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="QUESTTVMIX.uk" tvg-name="QUEST TV MIX" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="",QUEST TV MIX (720p)
-https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="QVCUK.uk" tvg-name="QVC UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/m1xhwRa.png" group-title="Shop",QVC UK
-https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.es" tvg-name="Rakuten TV Action Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="",Rakuten TV Action Movies UK (720p)
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.es" tvg-name="Rakuten TV Comedy Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="",Rakuten TV Comedy Movies UK (720p)
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaUK.es" tvg-name="Rakuten TV Drama UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="",Rakuten TV Drama UK (720p)
-https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.es" tvg-name="Rakuten TV Family Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="",Rakuten TV Family Movies UK (720p)
-https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightUK.es" tvg-name="Rakuten TV Spotlight UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="",Rakuten TV Spotlight UK (720p)
-https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RealStories.uk" tvg-name="Real Stories" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/TVfuBfJ.jpg" group-title="",Real Stories (720p)
-https://realstories-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTUK.ru" tvg-name="RT UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/zdTA0ha.png" group-title="News",RT UK (720p)
-http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
-#EXTINF:-1 tvg-id="RTUK.ru" tvg-name="RT UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT UK (720p)
-https://rt-news-gd.secure2.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-id="RugbyMensSevens.uk" tvg-name="Rugby Men's Sevens" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Rugby Men's Sevens (288p)
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="RugbyWomensSevens.uk" tvg-name="Rugby Women's Sevens" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Rugby Women's Sevens (288p)
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:-1 tvg-id="RugbyWorldTV.uk" tvg-name="Rugby World TV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",Rugby World TV (720p)
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",S4C (540p) [Geo-Blocked]
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="SangatTelevision.uk" tvg-name="Sangat Television" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="",Sangat Television (720p)
-https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
-#EXTINF:-1 tvg-id="SheffieldLiveTV.uk" tvg-name="Sheffield Live TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="Local",Sheffield Live TV
-http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-id="SkiTV.uk" tvg-name="Ski TV" tvg-country="UK" tvg-language="English" tvg-logo="https://content.weyyak.com/af0ecf95-8dc9-443d-9b4f-bc01eab7bd30/poster-image" group-title="Sports",Ski TV (1080p)
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p) [Geo-blocked]
-http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News (720p)
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-name="Sky News Arabia" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="Sky-MoviesComedy" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Sky-MoviesComedy
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:-1 tvg-id="SofyTV.uk" tvg-name="Sofy TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="",Sofy TV (720p)
-https://sofytv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SparkTv.uk" tvg-name="Spark Tv" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vTGknv3.png" group-title="",Spark Tv (720p)
-https://sparktv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Spike.uk" tvg-name="Spike" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Spike
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-id="SportsChannelNetwork.uk" tvg-name="Sports Channel Network" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="",Sports Channel Network (720p)
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsTonight.uk" tvg-name="Sports Tonight" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="",Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="SpotlightTV.uk" tvg-name="Spotlight TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/axXipp8.png" group-title="",Spotlight TV
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.uk" tvg-name="Stingray Karaoke" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="",Stingray Karaoke (1080p)
-https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/617962-stv.png" group-title="",STV (1080p) [Geo-Blocked]
-https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8
-#EXTINF:-1 tvg-id="STVPlus1.uk" tvg-name="STV+1" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/607358-stv-1.jpg" group-title="",STV+1 (1080p) [Geo-Blocked]
-https://csm-e-stv.tls1.yospace.com/csm/live/181023311.m3u8
-#EXTINF:-1 tvg-id="SupertoonsTV.uk" tvg-name="Supertoons TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="",Supertoons TV (720p)
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade.uk" tvg-name="Tastemade" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="",Tastemade (720p)
-https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="",Teletubbies (720p)
-https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TennisChannelUK.uk" tvg-name="Tennis Channel (UK)" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="",Tennis Channel (UK) (720p)
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-name="The Box UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Music",The Box UK (576p)
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 tvg-id="TheMonarchChannel.us" tvg-name="The Monarch Channel" tvg-country="US;UK" tvg-language="English" tvg-logo="" group-title="Documentary",The Monarch Channel (720p)
-https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
-#EXTINF:-1 tvg-id="TheTennisChannel.uk" tvg-name="The Tennis Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="",The Tennis Channel (720p)
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TimeLine.uk" tvg-name="Time Line" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="",Time Line (720p)
-https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="",TJC (1080p)
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1 tvg-id="Toongoggles.uk" tvg-name="Toongoggles" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/8PEf3Vn.jpg" group-title="",Toongoggles (720p)
-https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXP.uk" tvg-name="Travel XP" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travel XP (720p)
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Truly.uk" tvg-name="Truly" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/MWkm3no.png" group-title="",Truly (720p)
-https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Unearth.uk" tvg-name="Unearth" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/bMqTNs1.jpg" group-title="",Unearth (720p)
-https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="V2BEAT.uk" tvg-name="V2BEAT" tvg-country="UK" tvg-language="English" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="Music",V2BEAT (720p)
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="V2BEAT.uk" tvg-name="V2BEAT" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" group-title="Music",V2BEAT (720p)
-https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="",Wonder (720p)
-https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,BBC One HD
+http://152.89.62.111:8080/Duff/Duff/31136
+#EXTINF:-1,BBC One HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54408
+#EXTINF:-1,BBC 2 HD
+http://152.89.62.111:8080/Duff/Duff/31033
+#EXTINF:-1,BBC 2 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54409
+#EXTINF:-1,BBC Three HD
+http://152.89.62.111:8080/Duff/Duff/31114
+#EXTINF:-1,BBC Parliament HD
+http://152.89.62.111:8080/Duff/Duff/31112
+#EXTINF:-1,BBC Entertainment HD
+http://152.89.62.111:8080/Duff/Duff/31111
+#EXTINF:-1,BBC Earth HD
+http://152.89.62.111:8080/Duff/Duff/43234
+#EXTINF:-1, BBC Four HD
+http://152.89.62.111:8080/Duff/Duff/57
+#EXTINF:-1,ITV 1 HD
+http://152.89.62.111:8080/Duff/Duff/90
+#EXTINF:-1,ITV 1 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54410
+#EXTINF:-1,ITV 2 HD
+http://152.89.62.111:8080/Duff/Duff/91
+#EXTINF:-1,ITV 2 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54411
+#EXTINF:-1,ITV 3 HD
+http://152.89.62.111:8080/Duff/Duff/92
+#EXTINF:-1,ITV 3 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54412
+#EXTINF:-1,ITV 4 HD
+http://152.89.62.111:8080/Duff/Duff/93
+#EXTINF:-1,ITV 4 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54413
+#EXTINF:-1,ITV Be HD
+http://152.89.62.111:8080/Duff/Duff/94
+#EXTINF:-1,Channel 4 HD
+http://152.89.62.111:8080/Duff/Duff/70
+#EXTINF:-1,Channel 4 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54414
+#EXTINF:-1,4 Seven HD
+http://152.89.62.111:8080/Duff/Duff/46
+#EXTINF:-1,4 Seven HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54416
+#EXTINF:-1,More 4 HD
+http://152.89.62.111:8080/Duff/Duff/97
+#EXTINF:-1,More 4 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54417
+#EXTINF:-1,E4 HD
+http://152.89.62.111:8080/Duff/Duff/81
+#EXTINF:-1,E4 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54430
+#EXTINF:-1,Film 4 HD
+http://152.89.62.111:8080/Duff/Duff/31048
+#EXTINF:-1,Film 4 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54418
+#EXTINF:-1,Channel 5 HD
+http://152.89.62.111:8080/Duff/Duff/115
+#EXTINF:-1,Channel 5 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54419
+#EXTINF:-1,5 Star HD
+http://152.89.62.111:8080/Duff/Duff/86
+#EXTINF:-1,5 Star HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54420
+#EXTINF:-1,5 USA HD
+http://152.89.62.111:8080/Duff/Duff/31101
+#EXTINF:-1,5 USA HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54421
+#EXTINF:-1,Alibi HD
+http://152.89.62.111:8080/Duff/Duff/109
+#EXTINF:-1,Alibi HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54422
+#EXTINF:-1,Bet HD
+http://152.89.62.111:8080/Duff/Duff/110
+#EXTINF:-1,Bet HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54423
+#EXTINF:-1, Blaze HD
+http://152.89.62.111:8080/Duff/Duff/107
+#EXTINF:-1, CBS Drama HD
+http://152.89.62.111:8080/Duff/Duff/67
+#EXTINF:-1,CBS Justice HD
+http://152.89.62.111:8080/Duff/Duff/111
+#EXTINF:-1,CBS Reality HD
+http://152.89.62.111:8080/Duff/Duff/113
+#EXTINF:-1, Challenge HD
+http://152.89.62.111:8080/Duff/Duff/105
+#EXTINF:-1,Challenge HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54424
+#EXTINF:-1,CNBC HD
+http://152.89.62.111:8080/Duff/Duff/23269
+#EXTINF:-1,Comedy Central HD
+http://152.89.62.111:8080/Duff/Duff/62
+#EXTINF:-1,Comedy Central HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54425
+#EXTINF:-1,Comedy Central Extra HD
+http://152.89.62.111:8080/Duff/Duff/54426
+#EXTINF:-1,Dave HD
+http://152.89.62.111:8080/Duff/Duff/74
+#EXTINF:-1,Dave HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54427
+#EXTINF:-1,DMAX HD
+http://152.89.62.111:8080/Duff/Duff/65
+#EXTINF:-1,Drama HD
+http://152.89.62.111:8080/Duff/Duff/66
+#EXTINF:-1,Drama HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54428
+#EXTINF:-1,E! Entertainment HD
+http://152.89.62.111:8080/Duff/Duff/119
+#EXTINF:-1,E! Entertainment HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54429
+#EXTINF:-1,Eden HD
+http://152.89.62.111:8080/Duff/Duff/63
+#EXTINF:-1,Eden HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54431
+#EXTINF:-1,Food Network HD
+http://152.89.62.111:8080/Duff/Duff/124
+#EXTINF:-1,Fox HD
+http://152.89.62.111:8080/Duff/Duff/31052
+#EXTINF:-1,Gold HD
+http://152.89.62.111:8080/Duff/Duff/125
+#EXTINF:-1,Gold HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54432
+#EXTINF:-1,HGTV HD
+http://152.89.62.111:8080/Duff/Duff/170324
+#EXTINF:-1,Hillsong 
+http://152.89.62.111:8080/Duff/Duff/180716
+#EXTINF:-1,Home HD
+http://152.89.62.111:8080/Duff/Duff/31148
+#EXTINF:-1,Horror Channel HD
+http://152.89.62.111:8080/Duff/Duff/127
+#EXTINF:-1,Insight TV HD
+http://152.89.62.111:8080/Duff/Duff/128
+#EXTINF:-1,MTV HD
+http://152.89.62.111:8080/Duff/Duff/31163
+#EXTINF:-1,MTV Base HD
+http://152.89.62.111:8080/Duff/Duff/31165
+#EXTINF:-1,MTV Classic HD
+http://152.89.62.111:8080/Duff/Duff/31167
+#EXTINF:-1,MTV Hits HD
+http://152.89.62.111:8080/Duff/Duff/31169
+#EXTINF:-1,MTV Music HD
+http://152.89.62.111:8080/Duff/Duff/31171
+#EXTINF:-1,MTV Rocks HD
+http://152.89.62.111:8080/Duff/Duff/31172
+#EXTINF:-1,MTV One HD
+http://152.89.62.111:8080/Duff/Duff/45292
+#EXTINF:-1,Keep It Country TV HD
+http://152.89.62.111:8080/Duff/Duff/31040
+#EXTINF:-1,Clubland TV HD
+http://152.89.62.111:8080/Duff/Duff/45306
+#EXTINF:-1,Kiss TV HD
+http://152.89.62.111:8080/Duff/Duff/45280
+#EXTINF:-1,The Box HD
+http://152.89.62.111:8080/Duff/Duff/45295
+#EXTINF:-1,Box Hits HD
+http://152.89.62.111:8080/Duff/Duff/45297
+#EXTINF:-1,NOW 80's
+http://152.89.62.111:8080/Duff/Duff/45299
+#EXTINF:-1,Now 90's HD
+http://152.89.62.111:8080/Duff/Duff/45300
+#EXTINF:-1,Trace Vault HD
+http://152.89.62.111:8080/Duff/Duff/45294
+#EXTINF:-1,Lifetime HD
+http://152.89.62.111:8080/Duff/Duff/129
+#EXTINF:-1,Lifetime HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54433
+#EXTINF:-1,London Live HD
+http://152.89.62.111:8080/Duff/Duff/31159
+#EXTINF:-1,Paramount HD
+http://152.89.62.111:8080/Duff/Duff/100
+#EXTINF:-1,Pick TV HD
+http://152.89.62.111:8080/Duff/Duff/98
+#EXTINF:-1,Magic TV HD
+http://152.89.62.111:8080/Duff/Duff/31161
+#EXTINF:-1,Quest HD
+http://152.89.62.111:8080/Duff/Duff/101
+#EXTINF:-1,QUEST HD(BACKUP)
+http://152.89.62.111:8080/Duff/Duff/140482
+#EXTINF:-1,Quest Red HD
+http://152.89.62.111:8080/Duff/Duff/130
+#EXTINF:-1,QVC HD
+http://152.89.62.111:8080/Duff/Duff/31184
+#EXTINF:-1,QVC Extra HD
+http://152.89.62.111:8080/Duff/Duff/31186
+#EXTINF:-1,QVC Style HD
+http://152.89.62.111:8080/Duff/Duff/31188
+#EXTINF:-1,QVC Beauty HD
+http://152.89.62.111:8080/Duff/Duff/31185
+#EXTINF:-1,Sony TV HD
+http://152.89.62.111:8080/Duff/Duff/37682
+#EXTINF:-1,Sony TV HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54437
+#EXTINF:-1,SyFy HD
+http://152.89.62.111:8080/Duff/Duff/31196
+#EXTINF:-1,SyFy HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54438
+#EXTINF:-1,TALKING PICTURES
+http://152.89.62.111:8080/Duff/Duff/141552
+#EXTINF:-1,TCM HD
+http://152.89.62.111:8080/Duff/Duff/23261
+#EXTINF:-1,TCM HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54439
+#EXTINF:-1,Travel Channel HD
+http://152.89.62.111:8080/Duff/Duff/31204
+#EXTINF:-1,Travel Channel HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54440
+#EXTINF:-1,TLC HD
+http://152.89.62.111:8080/Duff/Duff/31202
+#EXTINF:-1,TLC HD (BACKUP)
+http://152.89.62.111:8080/Duff/Duff/140483
+#EXTINF:-1,Universal HD
+http://152.89.62.111:8080/Duff/Duff/106
+#EXTINF:-1,W HD
+http://152.89.62.111:8080/Duff/Duff/69
+#EXTINF:-1,Yesterday HD
+http://152.89.62.111:8080/Duff/Duff/82
+#EXTINF:-1,AMC HD
+http://152.89.62.111:8080/Duff/Duff/31109
+#EXTINF:-1,Sky One HD 
+http://152.89.62.111:8080/Duff/Duff/76
+#EXTINF:-1,Sky One HD Backup
+http://152.89.62.111:8080/Duff/Duff/101039
+#EXTINF:-1,Sky Atlantic HD
+http://152.89.62.111:8080/Duff/Duff/84
+#EXTINF:-1,Sky Atlantic HD Backup
+http://152.89.62.111:8080/Duff/Duff/54441
+#EXTINF:-1,Sky Arts HD
+http://152.89.62.111:8080/Duff/Duff/78
+#EXTINF:-1,Sky Arts HD Backup
+http://152.89.62.111:8080/Duff/Duff/54436
+#EXTINF:-1,Sky Comedy FHD
+http://152.89.62.111:8080/Duff/Duff/141445
+#EXTINF:-1,Sky Comedy HD
+http://152.89.62.111:8080/Duff/Duff/141444
+#EXTINF:-1,Sky Replay HD
+http://152.89.62.111:8080/Duff/Duff/77
+#EXTINF:-1,Sky Replay HD Backup (Coming Soon)
+http://152.89.62.111:8080/Duff/Duff/54435
+#EXTINF:-1,Virgin Media One HD
+http://152.89.62.111:8080/Duff/Duff/30312
+#EXTINF:-1,Virgin Media Two HD
+http://152.89.62.111:8080/Duff/Duff/37710
+#EXTINF:-1,Virgin Media Three HD
+http://152.89.62.111:8080/Duff/Duff/30314
+#EXTINF:-1,Ginx Gaming Channel HD
+http://152.89.62.111:8080/Duff/Duff/34291
+#EXTINF:-1,Sky Cinema Premiere HD
+http://152.89.62.111:8080/Duff/Duff/33899
+#EXTINF:-1,Sky Cinema Premiere HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54449
+#EXTINF:-1,Sky Cinema Animation HD
+http://152.89.62.111:8080/Duff/Duff/59547
+#EXTINF:-1,Sky Cinema Action HD
+http://152.89.62.111:8080/Duff/Duff/31
+#EXTINF:-1,Sky Cinema Action HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54443
+#EXTINF:-1,Sky Cinema Comedy HD
+http://152.89.62.111:8080/Duff/Duff/28
+#EXTINF:-1,Sky Cinema Comedy HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54444
+#EXTINF:-1,Sky Cinema Drama HD
+http://152.89.62.111:8080/Duff/Duff/39
+#EXTINF:-1,Sky Cinema Drama HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54446
+#EXTINF:-1,Sky Cinema Family HD
+http://152.89.62.111:8080/Duff/Duff/33
+#EXTINF:-1,Sky Cinema Family HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54447
+#EXTINF:-1,Sky Cinema Greats HD
+http://152.89.62.111:8080/Duff/Duff/33897
+#EXTINF:-1,Sky Cinema Greats HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54448
+#EXTINF:-1,Sky Cinema Hits HD
+http://152.89.62.111:8080/Duff/Duff/36901
+#EXTINF:-1,Sky Cinema Hits HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54442
+#EXTINF:-1,Sky Cinema Select HD
+http://152.89.62.111:8080/Duff/Duff/33900
+#EXTINF:-1,Sky Cinema Select HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54451
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://152.89.62.111:8080/Duff/Duff/33898
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54450
+#EXTINF:-1,Sky Cinema Thriller HD
+http://152.89.62.111:8080/Duff/Duff/33901
+#EXTINF:-1,Sky Cinema Thriller HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54452
+#EXTINF:-1,BOX OFFICE 1 HD
+http://152.89.62.111:8080/Duff/Duff/30302
+#EXTINF:-1,BOX OFFICE 2 HD
+http://152.89.62.111:8080/Duff/Duff/30304
+#EXTINF:-1,BOX OFFICE 3 HD 
+http://152.89.62.111:8080/Duff/Duff/30306
+#EXTINF:-1,BOX OFFICE 4 HD
+http://152.89.62.111:8080/Duff/Duff/30308
+#EXTINF:-1,BOX OFFICE 5 HD
+http://152.89.62.111:8080/Duff/Duff/30310
+#EXTINF:-1,BOX OFFICE 6 HD
+http://152.89.62.111:8080/Duff/Duff/30307
+#EXTINF:-1,BOX OFFICE 7 HD
+http://152.89.62.111:8080/Duff/Duff/30309
+#EXTINF:-1,BOX OFFICE 8 HD 
+http://152.89.62.111:8080/Duff/Duff/30311
+#EXTINF:-1,BOX OFFICE 10 HD
+http://152.89.62.111:8080/Duff/Duff/30303
+#EXTINF:-1,Animal Planet HD
+http://152.89.62.111:8080/Duff/Duff/34293
+#EXTINF:-1,Animal Planet HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54454
+#EXTINF:-1,Crime & Investigation HD
+http://152.89.62.111:8080/Duff/Duff/6
+#EXTINF:-1,Crime & Investigation HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54453
+#EXTINF:-1,Discovery Channel HD
+http://152.89.62.111:8080/Duff/Duff/33884
+#EXTINF:-1,Discovery Channel HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54455
+#EXTINF:-1,Discovery History HD
+http://152.89.62.111:8080/Duff/Duff/33885
+#EXTINF:-1,Discovery History HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54456
+#EXTINF:-1,Discovery Science HD
+http://152.89.62.111:8080/Duff/Duff/33887
+#EXTINF:-1,Discovery Science HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54457
+#EXTINF:-1,Discovery Turbo HD
+http://152.89.62.111:8080/Duff/Duff/11
+#EXTINF:-1,Discovery Turbo HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54459
+#EXTINF:-1,History HD
+http://152.89.62.111:8080/Duff/Duff/33891
+#EXTINF:-1,History HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/4
+#EXTINF:-1,History 2 HD
+http://152.89.62.111:8080/Duff/Duff/33890
+#EXTINF:-1,History 2 HD (BACKUP)
+http://152.89.62.111:8080/Duff/Duff/144509
+#EXTINF:-1,ID HD
+http://152.89.62.111:8080/Duff/Duff/31153
+#EXTINF:-1,National Geographic HD
+http://152.89.62.111:8080/Duff/Duff/3
+#EXTINF:-1,National Geographic HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/59548
+#EXTINF:-1,Nat Geo Wild HD
+http://152.89.62.111:8080/Duff/Duff/33893
+#EXTINF:-1,Nat Geo Wild HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/54460
+#EXTINF:-1,Sky Crime HD
+http://152.89.62.111:8080/Duff/Duff/45232
+#EXTINF:-1,Sky Crime HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/59546
+#EXTINF:-1,Sky Documentaries HD
+http://152.89.62.111:8080/Duff/Duff/49699
+#EXTINF:-1,SKY DOCUMENTARIES BACKUP
+http://152.89.62.111:8080/Duff/Duff/198597
+#EXTINF:-1,Sky Nature HD
+http://152.89.62.111:8080/Duff/Duff/43249
+#EXTINF:-1,SKY Witness HD
+http://152.89.62.111:8080/Duff/Duff/48665
+#EXTINF:-1,RTE 1 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/31126
+#EXTINF:-1,RTE 2 HD 
+http://152.89.62.111:8080/Duff/Duff/31127
+#EXTINF:-1,TG4 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/37155
+#EXTINF:-1,RTE News Now HD
+http://152.89.62.111:8080/Duff/Duff/54501
+#EXTINF:-1,RTE 1 HD
+http://152.89.62.111:8080/Duff/Duff/54502
+#EXTINF:-1,RTE JR HD
+http://152.89.62.111:8080/Duff/Duff/54503
+#EXTINF:-1,Virgin Media ONE HD (Ireland)
+http://152.89.62.111:8080/Duff/Duff/55418
+#EXTINF:-1,Virgin Media TWO HD (Ireland)
+http://152.89.62.111:8080/Duff/Duff/55419
+#EXTINF:-1,Virgin Media THREE HD (Ireland)
+http://152.89.62.111:8080/Duff/Duff/55420
+#EXTINF:-1,|UK| 92 News
+http://152.89.62.111:8080/Duff/Duff/110935
+#EXTINF:-1,|UK| & Tv
+http://152.89.62.111:8080/Duff/Duff/110908
+#EXTINF:-1,|UK| AajTak News
+http://152.89.62.111:8080/Duff/Duff/110938
+#EXTINF:-1,|UK| Aastha
+http://152.89.62.111:8080/Duff/Duff/110946
+#EXTINF:-1,|UK| Ahlulbayt Tv
+http://152.89.62.111:8080/Duff/Duff/110945
+#EXTINF:-1,|UK| Akaal Tv
+http://152.89.62.111:8080/Duff/Duff/110924
+#EXTINF:-1,|UK| Ary Family
+http://152.89.62.111:8080/Duff/Duff/110919
+#EXTINF:-1,|UK| Ary Qtv
+http://152.89.62.111:8080/Duff/Duff/110939
+#EXTINF:-1,|UK| Ary World
+http://152.89.62.111:8080/Duff/Duff/110934
+#EXTINF:-1,|UK| B4u Movies
+http://152.89.62.111:8080/Duff/Duff/110914
+#EXTINF:-1,|UK| B4u Music
+http://152.89.62.111:8080/Duff/Duff/110917
+#EXTINF:-1,|UK| Brit Asia
+http://152.89.62.111:8080/Duff/Duff/110918
+#EXTINF:-1,|UK| Channel 44
+http://152.89.62.111:8080/Duff/Duff/110933
+#EXTINF:-1,|UK| Color TV
+http://152.89.62.111:8080/Duff/Duff/110907
+#EXTINF:-1,|UK| Colors CinePlex
+http://152.89.62.111:8080/Duff/Duff/110913
+#EXTINF:-1,|UK| Colors Rishtey Europe
+http://152.89.62.111:8080/Duff/Duff/110909
+#EXTINF:-1,|UK| Duniya News
+http://152.89.62.111:8080/Duff/Duff/110931
+#EXTINF:-1,|UK| Geo Tv
+http://152.89.62.111:8080/Duff/Duff/110925
+#EXTINF:-1,|UK| Geo Kahani
+http://152.89.62.111:8080/Duff/Duff/110926
+#EXTINF:-1,|UK| Geo News
+http://152.89.62.111:8080/Duff/Duff/110930
+#EXTINF:-1,|UK| Hidayat Tv
+http://152.89.62.111:8080/Duff/Duff/110944
+#EXTINF:-1,|UK| Hum Tv
+http://152.89.62.111:8080/Duff/Duff/110927
+#EXTINF:-1,|UK| Hum Masala
+http://152.89.62.111:8080/Duff/Duff/110928
+#EXTINF:-1,|UK| KTV
+http://152.89.62.111:8080/Duff/Duff/110922
+#EXTINF:-1,|UK| Madni Channel
+http://152.89.62.111:8080/Duff/Duff/110941
+#EXTINF:-1,|UK| News One PK
+http://152.89.62.111:8080/Duff/Duff/110911
+#EXTINF:-1,|UK| Noor Tv
+http://152.89.62.111:8080/Duff/Duff/110943
+#EXTINF:-1,|UK| Peace Tv Urdu
+http://152.89.62.111:8080/Duff/Duff/110942
+#EXTINF:-1,|UK| Ptc Punjabi
+http://152.89.62.111:8080/Duff/Duff/110923
+#EXTINF:-1,|UK| Ptv Global
+http://152.89.62.111:8080/Duff/Duff/110929
+#EXTINF:-1,|UK| Ptv News
+http://152.89.62.111:8080/Duff/Duff/110936
+#EXTINF:-1,|UK| Sikh Channel
+http://152.89.62.111:8080/Duff/Duff/110920
+#EXTINF:-1,|UK| Sony Sab
+http://152.89.62.111:8080/Duff/Duff/110910
+#EXTINF:-1,|UK| Sony Max 2
+http://152.89.62.111:8080/Duff/Duff/110915
+#EXTINF:-1,|UK| Sangat Tv
+http://152.89.62.111:8080/Duff/Duff/110921
+#EXTINF:-1,|UK| Samaa News
+http://152.89.62.111:8080/Duff/Duff/110932
+#EXTINF:-1,|UK| STAR PLUS
+http://152.89.62.111:8080/Duff/Duff/110947
+#EXTINF:-1,|UK| Takbeer TV
+http://152.89.62.111:8080/Duff/Duff/110940
+#EXTINF:-1,|UK| Zee TV
+http://152.89.62.111:8080/Duff/Duff/110906
+#EXTINF:-1,|UK| Zee cinema
+http://152.89.62.111:8080/Duff/Duff/110912
+#EXTINF:-1,|UK| Zee Music
+http://152.89.62.111:8080/Duff/Duff/110937
+#EXTINF:-1,|UK| Zing Music
+http://152.89.62.111:8080/Duff/Duff/110916
+#EXTINF:-1,RTE 2 HD BACKUP
+http://152.89.62.111:8080/Duff/Duff/118621
+#EXTINF:-1,BBC ONE CAMBRIDGE
+http://152.89.62.111:8080/Duff/Duff/65495
+#EXTINF:-1,BBC ONE CHANNEL ISLANDS
+http://152.89.62.111:8080/Duff/Duff/65496
+#EXTINF:-1,BBC ONE EAST
+http://152.89.62.111:8080/Duff/Duff/65497
+#EXTINF:-1,BBC ONE EAST MIDLANDS
+http://152.89.62.111:8080/Duff/Duff/65498
+#EXTINF:-1,BBC ONE LONDON
+http://152.89.62.111:8080/Duff/Duff/65499
+#EXTINF:-1,BBC ONE NORTH EAST & CUMBRIA
+http://152.89.62.111:8080/Duff/Duff/65500
+#EXTINF:-1,BBC ONE NORTH WEST
+http://152.89.62.111:8080/Duff/Duff/65501
+#EXTINF:-1,BBC ONE OXFORD
+http://152.89.62.111:8080/Duff/Duff/65502
+#EXTINF:-1,BBC ONE NORTHERN IRELAND
+http://152.89.62.111:8080/Duff/Duff/101099
+#EXTINF:-1,BBC ONE SCOTLAND
+http://152.89.62.111:8080/Duff/Duff/65503
+#EXTINF:-1,BBC ONE SCOTLAND
+http://152.89.62.111:8080/Duff/Duff/155511
+#EXTINF:-1,BBC ONE SOUTH
+http://152.89.62.111:8080/Duff/Duff/65504
+#EXTINF:-1,BBC One SOUTH EAST
+http://152.89.62.111:8080/Duff/Duff/65505
+#EXTINF:-1,BBC ONE SOUTH WEST
+http://152.89.62.111:8080/Duff/Duff/65506
+#EXTINF:-1,BBC ONE WALES
+http://152.89.62.111:8080/Duff/Duff/65507
+#EXTINF:-1,BBC ONE WEST
+http://152.89.62.111:8080/Duff/Duff/65508
+#EXTINF:-1,BBC ONE WEST MIDLANDS
+http://152.89.62.111:8080/Duff/Duff/65509
+#EXTINF:-1,BBC ONE YORK
+http://152.89.62.111:8080/Duff/Duff/65510
+#EXTINF:-1,BBC ONE YORKSHIRE & LINCOLNSHIRE
+http://152.89.62.111:8080/Duff/Duff/65511
+#EXTINF:-1,BBC PARLIAMENT
+http://152.89.62.111:8080/Duff/Duff/65513
+#EXTINF:-1,BBC RED BUTTON 1
+http://152.89.62.111:8080/Duff/Duff/65514
+#EXTINF:-1,BBC TWO ENGLAND
+http://152.89.62.111:8080/Duff/Duff/65516
+#EXTINF:-1,BBC TWO NORTHEN IRELAND
+http://152.89.62.111:8080/Duff/Duff/65518
+#EXTINF:-1,BBC TWO SCOTLAND
+http://152.89.62.111:8080/Duff/Duff/65520
+#EXTINF:-1,BBC TWO WALES
+http://152.89.62.111:8080/Duff/Duff/65522
+#EXTINF:-1,ITV 1 ANGLIA EAST
+http://152.89.62.111:8080/Duff/Duff/65523
+#EXTINF:-1,ITV 1 ANGLIA WEST
+http://152.89.62.111:8080/Duff/Duff/65524
+#EXTINF:-1,ITV 1 CENTRAL EAST
+http://152.89.62.111:8080/Duff/Duff/65526
+#EXTINF:-1,ITV 1 CENTRAL WEST
+http://152.89.62.111:8080/Duff/Duff/65528
+#EXTINF:-1,ITV 1 GRANADA
+http://152.89.62.111:8080/Duff/Duff/65530
+#EXTINF:-1,ITV 1 MERIDIAN EAST
+http://152.89.62.111:8080/Duff/Duff/65531
+#EXTINF:-1,ITV 1 MERIDIAN TV NORTH
+http://152.89.62.111:8080/Duff/Duff/65533
+#EXTINF:-1,ITV 1 MERIDIAN TV SOUTH
+http://152.89.62.111:8080/Duff/Duff/65535
+#EXTINF:-1,ITV 1 TYNE TEES TV NORTH
+http://152.89.62.111:8080/Duff/Duff/65537
+#EXTINF:-1,ITV 1 WALES
+http://152.89.62.111:8080/Duff/Duff/65539
+#EXTINF:-1,ITV 1 WESTCOUNTRY SOUTH WEST
+http://152.89.62.111:8080/Duff/Duff/65540
+#EXTINF:-1,ITV 1 WESTCOUNTRY WEST
+http://152.89.62.111:8080/Duff/Duff/65542
+#EXTINF:-1,ITV 1 YORKSHIRE TV EAST
+http://152.89.62.111:8080/Duff/Duff/65544
+#EXTINF:-1,ITV 1 YORKSHIRE WEST
+http://152.89.62.111:8080/Duff/Duff/65545
+#EXTINF:-1,ITV BORDER
+http://152.89.62.111:8080/Duff/Duff/65547
+#EXTINF:-1,ITV TV
+http://152.89.62.111:8080/Duff/Duff/65549
+#EXTINF:-1,ITV WALES
+http://152.89.62.111:8080/Duff/Duff/65551
+#EXTINF:-1,CHANNEL 4 MIDLANDS
+http://152.89.62.111:8080/Duff/Duff/65553
+#EXTINF:-1,CHANNEL 4 NORTH
+http://152.89.62.111:8080/Duff/Duff/65554
+#EXTINF:-1,CHANNEL 4 NORTH 1
+http://152.89.62.111:8080/Duff/Duff/65556
+#EXTINF:-1,CHANNEL 4 NORTHEN IRELAND
+http://152.89.62.111:8080/Duff/Duff/65558
+#EXTINF:-1,CHANNEL 4 SCOTLAND
+http://152.89.62.111:8080/Duff/Duff/65560
+#EXTINF:-1,CHANNEL 4 SOUTH AND EAST
+http://152.89.62.111:8080/Duff/Duff/65561
+#EXTINF:-1,STV
+http://152.89.62.111:8080/Duff/Duff/101093
+#EXTINF:-1,STV CENTRAL WEST
+http://152.89.62.111:8080/Duff/Duff/101094
+#EXTINF:-1,STV NORTH
+http://152.89.62.111:8080/Duff/Duff/101095
+#EXTINF:-1,BBC one NI
+http://152.89.62.111:8080/Duff/Duff/85502
+#EXTINF:-1,UTV HD
+http://152.89.62.111:8080/Duff/Duff/102216
+#EXTINF:-1,SKY CINEMA PREMIERE SD
+http://152.89.62.111:8080/Duff/Duff/105844
+#EXTINF:-1,SKY CINEMA ANIMATION SD
+http://152.89.62.111:8080/Duff/Duff/136362
+#EXTINF:-1,SKY CINEMA ACTION SD
+http://152.89.62.111:8080/Duff/Duff/105838
+#EXTINF:-1,SKY CINEMA COMEDY SD
+http://152.89.62.111:8080/Duff/Duff/105839
+#EXTINF:-1,SKY CINEMA DRAMA SD
+http://152.89.62.111:8080/Duff/Duff/105837
+#EXTINF:-1,SKY CINEMA FAMILY SD
+http://152.89.62.111:8080/Duff/Duff/105841
+#EXTINF:-1,SKY CINEMA GREATS SD
+http://152.89.62.111:8080/Duff/Duff/105842
+#EXTINF:-1,SKY CINEMA HITS SD
+http://152.89.62.111:8080/Duff/Duff/105843
+#EXTINF:-1,SKY CINEMA SELECT  SD
+http://152.89.62.111:8080/Duff/Duff/136361
+#EXTINF:-1,SKY CINEMA SCI-FI & HORROR SD
+http://152.89.62.111:8080/Duff/Duff/105845
+#EXTINF:-1,SKY CINEMA THRILLER SD
+http://152.89.62.111:8080/Duff/Duff/105836
+#EXTINF:-1,4 MUSIC
+http://152.89.62.111:8080/Duff/Duff/128407
+#EXTINF:-1,NOW 70's
+http://152.89.62.111:8080/Duff/Duff/142078
+#EXTINF:-1,NOW MUSIC 
+http://152.89.62.111:8080/Duff/Duff/142079
+#EXTINF:-1,Horse & Country UK
+http://152.89.62.111:8080/Duff/Duff/156619
+#EXTINF:-1,MTV 90's
+http://152.89.62.111:8080/Duff/Duff/157631
+#EXTINF:-1,ITV1+1
+http://152.89.62.111:8080/Duff/Duff/65589
+#EXTINF:-1,ITV2+1
+http://152.89.62.111:8080/Duff/Duff/65590
+#EXTINF:-1,ITV 3+1
+http://152.89.62.111:8080/Duff/Duff/65591
+#EXTINF:-1,ITV4+1
+http://152.89.62.111:8080/Duff/Duff/65592
+#EXTINF:-1,ITV BE+1
+http://152.89.62.111:8080/Duff/Duff/65593
+#EXTINF:-1,CHANNEL 4+1
+http://152.89.62.111:8080/Duff/Duff/138101
+#EXTINF:-1,E4+1
+http://152.89.62.111:8080/Duff/Duff/65595
+#EXTINF:-1,MORE4+1
+http://152.89.62.111:8080/Duff/Duff/65594
+#EXTINF:-1,FILM4+1
+http://152.89.62.111:8080/Duff/Duff/65596
+#EXTINF:-1,Film4 +1
+http://152.89.62.111:8080/Duff/Duff/161148
+#EXTINF:-1,CHANNEL 5+1
+http://152.89.62.111:8080/Duff/Duff/65597
+#EXTINF:-1,Channel 5 +1
+http://152.89.62.111:8080/Duff/Duff/161113
+#EXTINF:-1,5STAR+1
+http://152.89.62.111:8080/Duff/Duff/65599
+#EXTINF:-1,5 Star+1
+http://152.89.62.111:8080/Duff/Duff/161115
+#EXTINF:-1,5USA+1
+http://152.89.62.111:8080/Duff/Duff/65600
+#EXTINF:-1,5USA +1
+http://152.89.62.111:8080/Duff/Duff/161137
+#EXTINF:-1,Alibi +1
+http://152.89.62.111:8080/Duff/Duff/161107
+#EXTINF:-1,Animal Planet +1 
+http://152.89.62.111:8080/Duff/Duff/161108
+#EXTINF:-1,Boomerang +1 
+http://152.89.62.111:8080/Duff/Duff/161109
+#EXTINF:-1,CBS Reality +1
+http://152.89.62.111:8080/Duff/Duff/161110
+#EXTINF:-1,Cartoon Network +1
+http://152.89.62.111:8080/Duff/Duff/161111
+#EXTINF:-1,Comedy Central +1
+http://152.89.62.111:8080/Duff/Duff/161114
+#EXTINF:-1,Discovery +1
+http://152.89.62.111:8080/Duff/Duff/161116
+#EXTINF:-1,Discovery Turbo +1
+http://152.89.62.111:8080/Duff/Duff/161117
+#EXTINF:-1,Discovery History +1
+http://152.89.62.111:8080/Duff/Duff/161118
+#EXTINF:-1,Discovery Science +1
+http://152.89.62.111:8080/Duff/Duff/161119
+#EXTINF:-1,DMAX +1
+http://152.89.62.111:8080/Duff/Duff/161140
+#EXTINF:-1,Drama +1
+http://152.89.62.111:8080/Duff/Duff/161120
+#EXTINF:-1,Eden +1
+http://152.89.62.111:8080/Duff/Duff/161121
+#EXTINF:-1,Gold +1
+http://152.89.62.111:8080/Duff/Duff/161131
+#EXTINF:-1,HGTV+1
+http://152.89.62.111:8080/Duff/Duff/161122
+#EXTINF:-1,Investigation Discovery +1
+http://152.89.62.111:8080/Duff/Duff/161143
+#EXTINF:-1,Nickelodeon +1
+http://152.89.62.111:8080/Duff/Duff/161123
+#EXTINF:-1,PARAMOUNT+1
+http://152.89.62.111:8080/Duff/Duff/65602
+#EXTINF:-1,Food Network +1
+http://152.89.62.111:8080/Duff/Duff/161147
+#EXTINF:-1,Pop +1
+http://152.89.62.111:8080/Duff/Duff/161133
+#EXTINF:-1,POP MAX +1
+http://152.89.62.111:8080/Duff/Duff/161134
+#EXTINF:-1,Quest +1
+http://152.89.62.111:8080/Duff/Duff/161138
+#EXTINF:-1,Home & Health +1
+http://152.89.62.111:8080/Duff/Duff/161139
+#EXTINF:-1,Horror Channel +1
+http://152.89.62.111:8080/Duff/Duff/161141
+#EXTINF:-1,Pick TV +1
+http://152.89.62.111:8080/Duff/Duff/161146
+#EXTINF:-1,Quest Red +1
+http://152.89.62.111:8080/Duff/Duff/161145
+#EXTINF:-1,Rte One +1 (down)
+http://152.89.62.111:8080/Duff/Duff/161125
+#EXTINF:-1,Sky Witness +1
+http://152.89.62.111:8080/Duff/Duff/161149
+#EXTINF:-1,Sony Action +1
+http://152.89.62.111:8080/Duff/Duff/161151
+#EXTINF:-1,Sony Classic +1
+http://152.89.62.111:8080/Duff/Duff/161152
+#EXTINF:-1,Sony Channel +1
+http://152.89.62.111:8080/Duff/Duff/161153
+#EXTINF:-1,Sony Movies +1
+http://152.89.62.111:8080/Duff/Duff/161132
+#EXTINF:-1,TCM +1
+http://152.89.62.111:8080/Duff/Duff/161142
+#EXTINF:-1,Tiny POP +1
+http://152.89.62.111:8080/Duff/Duff/161150
+#EXTINF:-1,UTV +1
+http://152.89.62.111:8080/Duff/Duff/161144
+#EXTINF:-1,UTV+1
+http://152.89.62.111:8080/Duff/Duff/65601
+#EXTINF:-1,W+1
+http://152.89.62.111:8080/Duff/Duff/161126
+#EXTINF:-1,Yesterday +1
+http://152.89.62.111:8080/Duff/Duff/161136
+#EXTINF:-1,BBC News HD 
+http://152.89.62.111:8080/Duff/Duff/58
+#EXTINF:-1,Sky News HD 
+http://152.89.62.111:8080/Duff/Duff/61
+#EXTINF:-1,AL JAZEERA HD 
+http://152.89.62.111:8080/Duff/Duff/131680
+#EXTINF:-1,Bloomberg HD 
+http://152.89.62.111:8080/Duff/Duff/46784
+#EXTINF:-1,BLOOMBERG NEWS HD 
+http://152.89.62.111:8080/Duff/Duff/133099
+#EXTINF:-1,CNBC NEWS HD 
+http://152.89.62.111:8080/Duff/Duff/133098
+#EXTINF:-1,CNBC NEWS 
+http://152.89.62.111:8080/Duff/Duff/133097
+#EXTINF:-1,CNN HD 
+http://152.89.62.111:8080/Duff/Duff/23270
+#EXTINF:-1,Euro News HD 
+http://152.89.62.111:8080/Duff/Duff/60
+#EXTINF:-1,RT News HD
+http://152.89.62.111:8080/Duff/Duff/31120
+#EXTINF:-1,RTE News HD
+http://152.89.62.111:8080/Duff/Duff/23272
+#EXTINF:-1,Sky News Arabia HD 
+http://152.89.62.111:8080/Duff/Duff/31130
+#EXTINF:-1,TRT WORLD 
+http://152.89.62.111:8080/Duff/Duff/133100
+#EXTINF:-1,UK Animal Planet (Discovery +) FHD
+http://152.89.62.111:8080/Duff/Duff/178015
+#EXTINF:-1,UK Discovery Channel (Discovery +) FHD
+http://152.89.62.111:8080/Duff/Duff/178016
+#EXTINF:-1,UK Discovery DMAX (Discovery +) SD
+http://152.89.62.111:8080/Duff/Duff/178020
+#EXTINF:-1,UK Discovery History (Discovery +) SD
+http://152.89.62.111:8080/Duff/Duff/178021
+#EXTINF:-1,UK Discovery Science (Discovery +) SD
+http://152.89.62.111:8080/Duff/Duff/178022
+#EXTINF:-1,UK Discovery Turbo (Discovery +) SD
+http://152.89.62.111:8080/Duff/Duff/178023
+#EXTINF:-1,UK FoodNetwork (Discovery +) SD
+http://152.89.62.111:8080/Duff/Duff/178014
+#EXTINF:-1,UK HGTV (Discovery +) SD
+http://152.89.62.111:8080/Duff/Duff/178025
+#EXTINF:-1,UK ID (Discovery +) SD
+http://152.89.62.111:8080/Duff/Duff/178024
+#EXTINF:-1,UK Quest (Discovery +) FHD
+http://152.89.62.111:8080/Duff/Duff/178017
+#EXTINF:-1,UK Quest Red (Discovery +) SD
+http://152.89.62.111:8080/Duff/Duff/178018
+#EXTINF:-1,UK Really (Discovery +) SD
+http://152.89.62.111:8080/Duff/Duff/178026
+#EXTINF:-1,UK TLC (Discovery +) FHD
+http://152.89.62.111:8080/Duff/Duff/178019
+#EXTINF:-1,24/7 Empire
+http://152.89.62.111:8080/Duff/Duff/182327
+#EXTINF:-1,24/7 12 oz Mouse
+http://152.89.62.111:8080/Duff/Duff/185465
+#EXTINF:-1,UK BBC NEWS
+http://152.89.62.111:8080/Duff/Duff/181431
+#EXTINF:-1,UK BBC ONE SCOTLAND
+http://152.89.62.111:8080/Duff/Duff/181432
+#EXTINF:-1,UK BBC RED BUTTON
+http://152.89.62.111:8080/Duff/Duff/181433
+#EXTINF:-1,UK BBC WORLD NEWS
+http://152.89.62.111:8080/Duff/Duff/181434
+#EXTINF:-1,UK BBC ONE
+http://152.89.62.111:8080/Duff/Duff/181435
+#EXTINF:-1,UK BBC TWO
+http://152.89.62.111:8080/Duff/Duff/181436
+#EXTINF:-1,UK BBC SCOTLAND
+http://152.89.62.111:8080/Duff/Duff/181437
+#EXTINF:-1,UK CBS Justice
+http://152.89.62.111:8080/Duff/Duff/181438
+#EXTINF:-1,UK CBS DRAMA
+http://152.89.62.111:8080/Duff/Duff/181439
+#EXTINF:-1,UK CBS REALITY
+http://152.89.62.111:8080/Duff/Duff/181440
+#EXTINF:-1,UK CHALLENGE
+http://152.89.62.111:8080/Duff/Duff/181441
+#EXTINF:-1,UK CHANNEL S
+http://152.89.62.111:8080/Duff/Duff/181442
+#EXTINF:-1,UK CHANNELS 24
+http://152.89.62.111:8080/Duff/Duff/181443
+#EXTINF:-1,UK CHANNEL 4
+http://152.89.62.111:8080/Duff/Duff/181444
+#EXTINF:-1,UK CHANNEL 5
+http://152.89.62.111:8080/Duff/Duff/181445
+#EXTINF:-1,UK COLORS
+http://152.89.62.111:8080/Duff/Duff/181446
+#EXTINF:-1,UK COMEDY CENTRAL
+http://152.89.62.111:8080/Duff/Duff/181447
+#EXTINF:-1,UK COMEDY CENTRAL EXTRA
+http://152.89.62.111:8080/Duff/Duff/181448
+#EXTINF:-1,UK DMAX
+http://152.89.62.111:8080/Duff/Duff/181449
+#EXTINF:-1,UK E! ENTERTAINMENT
+http://152.89.62.111:8080/Duff/Duff/181450
+#EXTINF:-1,UK E4
+http://152.89.62.111:8080/Duff/Duff/181451
+#EXTINF:-1,UK EDEN
+http://152.89.62.111:8080/Duff/Duff/181452
+#EXTINF:-1,UK SMITHSONIAN CHANNEL
+http://152.89.62.111:8080/Duff/Duff/181453
+#EXTINF:-1,UK FILM 4
+http://152.89.62.111:8080/Duff/Duff/181454
+#EXTINF:-1,UK FOOD NETWORK
+http://152.89.62.111:8080/Duff/Duff/181455
+#EXTINF:-1,UK FORCES TV
+http://152.89.62.111:8080/Duff/Duff/181456
+#EXTINF:-1,UK FOOD XP
+http://152.89.62.111:8080/Duff/Duff/181457
+#EXTINF:-1,UK GOLD
+http://152.89.62.111:8080/Duff/Duff/181458
+#EXTINF:-1,UK HORROR CHANNEL
+http://152.89.62.111:8080/Duff/Duff/181459
+#EXTINF:-1,UK ITV Be
+http://152.89.62.111:8080/Duff/Duff/181460
+#EXTINF:-1,UK ITV 1
+http://152.89.62.111:8080/Duff/Duff/181461
+#EXTINF:-1,UK ITV 2
+http://152.89.62.111:8080/Duff/Duff/181462
+#EXTINF:-1,UK ITV 3
+http://152.89.62.111:8080/Duff/Duff/181463
+#EXTINF:-1,UK ITV 4
+http://152.89.62.111:8080/Duff/Duff/181464
+#EXTINF:-1,UK LIFETIME
+http://152.89.62.111:8080/Duff/Duff/181465
+#EXTINF:-1,UK MORE 4
+http://152.89.62.111:8080/Duff/Duff/181466
+#EXTINF:-1,UK QUEST
+http://152.89.62.111:8080/Duff/Duff/181467
+#EXTINF:-1,UK QUEST RED
+http://152.89.62.111:8080/Duff/Duff/181468
+#EXTINF:-1,UK REALLY
+http://152.89.62.111:8080/Duff/Duff/181469
+#EXTINF:-1,UK S4C
+http://152.89.62.111:8080/Duff/Duff/181470
+#EXTINF:-1,UK SHOWCASE
+http://152.89.62.111:8080/Duff/Duff/181471
+#EXTINF:-1,UK SKY ONE
+http://152.89.62.111:8080/Duff/Duff/181472
+#EXTINF:-1,UK SYFY
+http://152.89.62.111:8080/Duff/Duff/181473
+#EXTINF:-1,UK TCM
+http://152.89.62.111:8080/Duff/Duff/181474
+#EXTINF:-1,UK TLC
+http://152.89.62.111:8080/Duff/Duff/181475
+#EXTINF:-1,UK TRAVEL CHANNEL
+http://152.89.62.111:8080/Duff/Duff/181476
+#EXTINF:-1,UK LIVE 360
+http://152.89.62.111:8080/Duff/Duff/181477
+#EXTINF:-1,UK W
+http://152.89.62.111:8080/Duff/Duff/181478
+#EXTINF:-1,UK YESTERDAY
+http://152.89.62.111:8080/Duff/Duff/181479
